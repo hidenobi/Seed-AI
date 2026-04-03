@@ -1,0 +1,26 @@
+              precision    recall  f1-score   support
+
+      Almond       0.94      0.94      0.94        18
+        Amla       1.00      0.94      0.97        18
+       Apple       0.94      0.89      0.91        18
+     Avocado       0.74      0.78      0.76        18
+   Betel_Nut       0.94      0.89      0.91        18
+  Black_Plum       1.00      0.94      0.97        18
+      Cashew       0.94      0.89      0.91        18
+Chinese_Date       0.84      0.89      0.86        18
+        Date       1.00      0.78      0.88        18
+       Guava       1.00      0.83      0.91        18
+    Hog_Plum       0.94      0.94      0.94        18
+   Jackfruit       0.85      0.94      0.89        18
+      Litchi       0.80      0.89      0.84        18
+       Mango       1.00      0.94      0.97        18
+       Olive       0.68      0.94      0.79        18
+      Orange       1.00      0.61      0.76        18
+        Palm       0.86      1.00      0.92        18
+     Pumpkin       0.78      1.00      0.88        18
+   Sapodilla       0.89      0.94      0.92        18
+    Tamarind       1.00      0.89      0.94        18
+
+    accuracy                           0.89       360
+   macro avg       0.91      0.89      0.89       360
+weighted avg       0.91      0.89      0.89       360
